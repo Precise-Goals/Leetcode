@@ -1,1 +1,1 @@
-# Leetcodesadsaafsadsa
+# Leetcode is the way
